@@ -4,7 +4,9 @@ Product and design leader in Atlanta. I design and I ship: 17 years across Meta,
 Opendoor and CNN Mobile, and now I build my own products end to end, from the first HTML
 prototype to the production database.
 
-[matthewsuber.com](https://matthewsuber.com) · [hewdoes.xyz](https://hewdoes.xyz)
+The three products below are built under [Human Commons](https://humancommons.studio), my product studio.
+
+[matthewsuber.com](https://matthewsuber.com) · [hewdoes.xyz](https://hewdoes.xyz) · [humancommons.studio](https://humancommons.studio)
 
 ---
 
