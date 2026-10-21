@@ -1,6 +1,6 @@
 ### Matthew "Hew" Suber
 
-Product and design leader in Atlanta. I design and I ship: 17 years across Meta, Pinterest,
+Product and design leader in Atlanta. I design and I ship: 18 years across Meta, Pinterest,
 Opendoor and CNN Mobile, and now I build my own products end to end, from the first HTML
 prototype to the production database.
 
