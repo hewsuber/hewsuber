@@ -6,7 +6,7 @@ prototype to the production database.
 
 The three products below are built under [Human Commons](https://humancommons.studio), my product studio.
 
-Me as a person [matthewsuber.com](https://matthewsuber.com) · Me as a worker Bee [hewdoes.xyz](https://hewdoes.xyz) · Me as a busy Bee [humancommons.studio](https://humancommons.studio)
+Me as a person [matthewsuber.com](https://matthewsuber.com) · Me as a worker Bee [hewdoes.xyz](https://hewdoes.xyz) · Me as a busy Bee [humancommons.studio](https://humancommons.studio) and [bayesianleaf.co](https://bayesianleaf.co/)
 
 ---
 
